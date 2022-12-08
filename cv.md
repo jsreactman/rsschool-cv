@@ -8,6 +8,7 @@
 * Figma
 * Tilda
 5. Code example
+
 ```
 
 <!DOCTYPE html>
@@ -16,6 +17,7 @@
     	<title>My first page</title>
     	<meta charset="UTF-8">
     </head>
+</html>
 
 ```
 6. None
