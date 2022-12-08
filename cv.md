@@ -9,13 +9,15 @@
 * Tilda
 5. Code example
 ```
+
 <!DOCTYPE html>
 <html lang ="ru">
     <head>
     	<title>My first page</title>
     	<meta charset="UTF-8">
     </head>
+
 ```
 6. None
 7. None
-8. A2 
+8. A2
