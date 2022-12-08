@@ -7,19 +7,7 @@
 * HTML&CSS
 * Figma
 * Tilda
-5. Code example
-
-```
-
-<!DOCTYPE html>
-<html lang ="ru">
-    <head>
-    	<title>My first page</title>
-    	<meta charset="UTF-8">
-    </head>
-</html>
-
-```
+5. Code example: `<p>4 8 15 16 23 42<p>`
 6. None
 7. None
 8. A2
